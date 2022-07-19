@@ -51,6 +51,8 @@
 
 .daily-details-grid label:first-child {
   color: #757575;
+  font-size: 12px;
+  text-transform: uppercase;
 }
 
 .daily-details-grid label:last-child {
